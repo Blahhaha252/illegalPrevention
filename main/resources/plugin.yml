@@ -1,0 +1,8 @@
+name: IllegalPrevention
+version: 0.0.1
+main: org.blahhaha253.Main
+api-version: 1.20
+description: A plugin to prevent illegal items
+author: blahhaha253
+#time to wait before doing next event (used to prevent chunk banning)
+timer: 50 #Time in milliseconds

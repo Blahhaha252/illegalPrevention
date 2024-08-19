@@ -1,0 +1,5 @@
+timer: 50
+sword_priority:
+  - sharpness
+  - smite
+  - bane_of_arthropods
